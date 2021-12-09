@@ -33,22 +33,22 @@ This course introduces basic concepts, algorithms, and techniques of data visual
 
 | Week | Date | Topic | Further Reading | Homework| Course Project|
 | ------- | ------ | ------ | -------- | ------ | ------ | 
-| Week 1 |TBD |Introduction||||
-| Week 2 |TBD |||||
-| Week 3 |TBD |||||
-| Week 4 |TBD |||||
-| Week 5 |TBD |||||
-| Week 6 |TBD |||||
-| Week 7 |TBD |||||
-| Week 8 |TBD |Midterm Exam||||
-| Week 9 |TBD |||||
-| Week 10 |TBD |||||
-| Week 11 |TBD |||||
-| Week 12 |TBD |||||
-| Week 13 |TBD |||||
-| Week 14 |TBD |||||
-| Week 15 |TBD |||||
-| Week 16 |TBD |Course Summary and Presentation|||TBD Final Report Due|
-| Week 17 |TBD |||||
+| Week 1 |2/25 |Introduction||||
+| Week 2 |3/4 |||||
+| Week 3 |3/11 |||||
+| Week 4 |3/18 |||||
+| Week 5 |3/25 |||||
+| Week 6 |4/1 |||||
+| Week 7 |4/8 |||||
+| Week 8 |4/15 |Midterm Exam||||
+| Week 9 |4/22 |||||
+| Week 10 |4/29 |||||
+| Week 11 |5/6 |||||
+| Week 12 |5/13 |||||
+| Week 13 |5/20 |||||
+| Week 14 |5/27 |||||
+| Week 15 |6/3 |||||
+| Week 16 |6/10 |Course Summary and Presentation|||TBD Final Report Due|
+| Week 17 ||||||
 | Week 18 |6/24 |Final Exam||||
 
