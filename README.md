@@ -28,5 +28,25 @@ This course introduces basic concepts, algorithms, and techniques of data visual
 -	Participation: 10%
 
 ## Tentative Schedule
-*Book refers to: Wei Chen, Zeqian Shen, Yubo Tao. Data Visualization, 3rd edition (In Chinese). Publishing House of Electronics Industry, 2019.
+*Book refers to: Wei Chen, Zeqian Shen, Yubo Tao. Data Visualization, 2nd edition (In Chinese). Publishing House of Electronics Industry.
+
+
+| Week | Date | Topic | Further Reading | Discussion Session| Homework| Course Project|
+| ------- | ------ | ------ | -------- | ------ | ------ | ------ |
+| Week 1 |TBD |introduction|||||
+| Week 2 |TBD ||||||
+| Week 3 |TBD ||||||
+| Week 4 |TBD ||||||
+| Week 5 |TBD ||||||
+| Week 6 |TBD ||||||
+| Week 7 |TBD ||||||
+| Week 8 |TBD |Midterm Exam|||||
+| Week 9 |TBD ||||||
+| Week 10 |TBD ||||||
+| Week 11 |TBD ||||||
+| Week 12 |TBD ||||||
+| Week 13 |TBD ||||||
+| Week 14 |TBD ||||||
+| Week 15 |TBD ||||||
+| Week 16 |TBD |Course Summary and Presentation||||12/10 Final Report Due|
 
