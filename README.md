@@ -20,7 +20,7 @@ We are in the digital era of exploding amount and complexity of data. This cours
 ## Learning Objectives
 - Learn the basic data representation methods and visualization techniques
 - Develop visualization skills using Python to solve real-world applications
-- Gain initial experience in conducting research via data visualizatin
+- Gain initial experience in conducting research on data mining
 
 ## Grading
 -	Homework: 30%
