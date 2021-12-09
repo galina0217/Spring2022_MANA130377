@@ -33,15 +33,15 @@ This course introduces basic concepts, algorithms, and techniques of data visual
 
 | Week | Date | Topic | Further Reading | Homework| Course Project|
 | ------- | ------ | ------ | -------- | ------ | ------ | 
-| Week 1 |2/25 |Introduction||||
-| Week 2 |3/4 |||||
-| Week 3 |3/11 |||||
-| Week 4 |3/18 |||||
-| Week 5 |3/25 |||||
-| Week 6 |4/1 |||||
-| Week 7 |4/8 |||||
-| Week 8 |4/15 |Midterm Exam||||
-| Week 9 |4/22 |||||
+| Week 01 |2/25 |Introduction||||
+| Week 02 |3/4 |||||
+| Week 03 |3/11 |||||
+| Week 04 |3/18 |||||
+| Week 05 |3/25 |||||
+| Week 06 |4/1 |||||
+| Week 07 |4/8 |||||
+| Week 08 |4/15 |Midterm Exam||||
+| Week 09 |4/22 |||||
 | Week 10 |4/29 |||||
 | Week 11 |5/6 |||||
 | Week 12 |5/13 |||||
