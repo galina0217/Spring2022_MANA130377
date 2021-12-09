@@ -26,3 +26,7 @@ This course introduces basic concepts, algorithms, and techniques of data visual
 -	Midterm exam: 20%
 -	Final exam / Course project: 40%
 -	Participation: 10%
+
+## Tentative Schedule
+*Book refers to: Wei Chen, Zeqian Shen, Yubo Tao. Data Visualization, 3rd edition (In Chinese). Publishing House of Electronics Industry, 2019.
+
