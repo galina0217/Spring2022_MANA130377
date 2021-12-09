@@ -33,7 +33,7 @@ This course introduces basic concepts, algorithms, and techniques of data visual
 
 | Week | Date | Topic | Further Reading | Discussion Session| Homework| Course Project|
 | ------- | ------ | ------ | -------- | ------ | ------ | ------ |
-| Week 1 |TBD |introduction|||||
+| Week 1 |TBD |Introduction|||||
 | Week 2 |TBD ||||||
 | Week 3 |TBD ||||||
 | Week 4 |TBD ||||||
