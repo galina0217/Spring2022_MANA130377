@@ -49,4 +49,6 @@ This course introduces basic concepts, algorithms, and techniques of data visual
 | Week 14 |TBD |||||
 | Week 15 |TBD |||||
 | Week 16 |TBD |Course Summary and Presentation|||TBD Final Report Due|
+| Week 17 |TBD |||||
+| Week 18 |6/24 |Final Exam||||
 
