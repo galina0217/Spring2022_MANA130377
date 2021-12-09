@@ -18,8 +18,8 @@ We are in the digital era of exploding amount and complexity of data. This cours
 -	You will also need to be familiar with Python programming or have programming experiences.
 
 ## Learning Objectives
-- Learn the basic data visualization techniques
-- Develop visualization skills using Python programming to solve real-world applications
+- Learn the basic data representation methods and visualization techniques
+- Develop visualization skills using Python to solve real-world applications
 - Gain initial experience in conducting research via data visualizatin
 
 ## Grading
