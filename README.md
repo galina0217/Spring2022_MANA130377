@@ -11,16 +11,17 @@
 
 ## Course Description
 
-We are in the digital era of exploding amount and complexity of data. This course aims to provide students with data representation methods and visualization techniques that increase the understanding of complex data, including but not limited to (1) graph data, (2) text data, (3) sequence data and (4) high-dimensional data. The class project involves hands-on practice of data visualization from big data. The course is an undergraduate-level data science or computer science course. Also, the course may attract students from other disciplines who need to understand, develop, and use data visualization techniques to analyze large amounts of data.
+We are in the digital era of exploding amount and complexity of data. This course aims to provide students with data mining methods and visualization techniques that increase the understanding of complex data, including but not limited to (1) graph data, (2) text data, (3) sequence data and (4) high-dimensional data. The class project involves hands-on practice of data mining and visualization. The course is an undergraduate-level data science or computer science course. Also, the course may attract students from other disciplines who need to understand, develop, and use data mining and visualization techniques to analyze data.
 
 ## Prerequisites
-- You are expected to have background knowledge in data analysis.
+- You are expected to have background knowledge in data science.
 -	You will also need to be familiar with Python programming or have programming experiences.
 
 ## Learning Objectives
-- Learn the basic data representation methods and visualization techniques
-- Develop visualization skills using Python to solve real-world applications
-- Gain initial experience in conducting research on data mining
+- Learn the basic data mining methods
+- Develop data visualization techniques to better communicate data-driven findings
+- Apply data mining methods and develop visualization skills to solve real-world applications
+- Gain initial experience in conducting research on data mining 
 
 ## Grading
 -	Homework: 30%
