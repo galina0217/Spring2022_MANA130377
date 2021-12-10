@@ -43,13 +43,13 @@ We are in the digital era of exploding amount and complexity of data. This cours
 | Week 06 |4/1 |||||
 | Week 07 |4/8 |||||
 | Week 08 |4/15 |Midterm Exam||||
-| Week 09 |4/22 |||||
-| Week 10 |4/29 |||||
-| Week 11 |5/6 |||||
-| Week 12 |5/13 |||||
-| Week 13 |5/20 |||||
-| Week 14 |5/27 |||||
-| Week 15 |6/3 |||||
+| Week 09 |4/22 |Graph Modelling||||
+| Week 10 |4/29 |Graph Visulization||||
+| Week 11 |5/6 |Text Modelling||||
+| Week 12 |5/13 |Text Visulization||||
+| Week 13 |5/20 |High-dimensional Data Modelling||||
+| Week 14 |5/27 |High-dimensional Data Visulization||||
+| Week 15 |6/3 |Map Visulization||||
 | Week 16 |6/10 |Course Summary and Presentation|||TBD Final Report Due|
 | Week 17 |(No Class)|||||
 | Week 18 |6/24 |Final Exam 08:30-10:30||||
