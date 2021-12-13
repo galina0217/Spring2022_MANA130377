@@ -38,11 +38,11 @@ We are in the digital era of exploding amount and complexity of data. This cours
 | Week 01 |2/25 |Introduction||||
 | Week 02 |3/4 |Python Programming||||
 | Week 03 |3/11 |Data||||
-| Week 04 |3/18 |Data Mining||||
-| Week 05 |3/25 |Basics of Data Visualization||||
-| Week 06 |4/1 |||||
-| Week 07 |4/8 |||||
-| Week 08 |4/15 |Midterm Exam||||
+| Week 04 |3/18 |Basics of Data Visualization||||
+| Week 05 |3/25 |Statistics & Table||||
+| Week 06 |4/1 |Data Mining I||||
+| Week 07 |4/8 |Data Mining II||||
+| Week 08 |4/15 |Midterm Exam (Case Study)||||
 | Week 09 |4/22 |Graph Modelling||||
 | Week 10 |4/29 |Graph Visulization||||
 | Week 11 |5/6 |Text Modelling||||
