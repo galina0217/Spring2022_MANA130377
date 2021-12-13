@@ -39,7 +39,7 @@ We are in the digital era of exploding amount and complexity of data. This cours
 | Week 02 |3/4 |Python Programming||||
 | Week 03 |3/11 |Data||||
 | Week 04 |3/18 |Data Mining||||
-| Week 05 |3/25 |||||
+| Week 05 |3/25 |Basics of Data Visualization||||
 | Week 06 |4/1 |||||
 | Week 07 |4/8 |||||
 | Week 08 |4/15 |Midterm Exam||||
