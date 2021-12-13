@@ -36,9 +36,9 @@ We are in the digital era of exploding amount and complexity of data. This cours
 | Week | Date | Topic | Further Reading | Homework| Course Project|
 | ------- | ------ | ------ | -------- | ------ | ------ | 
 | Week 01 |2/25 |Introduction||||
-| Week 02 |3/4 |Basics of Python Programming||||
-| Week 03 |3/11 |Basics of Data Processing||||
-| Week 04 |3/18 |||||
+| Week 02 |3/4 |Python Programming||||
+| Week 03 |3/11 |Data||||
+| Week 04 |3/18 |Data Mining||||
 | Week 05 |3/25 |||||
 | Week 06 |4/1 |||||
 | Week 07 |4/8 |||||
