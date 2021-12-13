@@ -43,12 +43,12 @@ We are in the digital era of exploding amount and complexity of data. This cours
 | Week 06 |4/1 |Data Mining I||||
 | Week 07 |4/8 |Data Mining II||||
 | Week 08 |4/15 |Midterm Exam (Case Study)||||
-| Week 09 |4/22 |Graph Mining and Visulization I||||
-| Week 10 |4/29 |Graph Mining and Visulization II||||
-| Week 11 |5/6 |Text Mining and Visulization I||||
-| Week 12 |5/13 |Text Mining and Visulization II||||
-| Week 13 |5/20 |High-dimensional Data Mining and Visulization I||||
-| Week 14 |5/27 |High-dimensional Data Mining and Visulization II||||
+| Week 09 |4/22 |Graph Mining and Visualization I||||
+| Week 10 |4/29 |Graph Mining and Visualization II||||
+| Week 11 |5/6 |Text Mining and Visualization I||||
+| Week 12 |5/13 |Text Mining and Visualization II||||
+| Week 13 |5/20 |High-dimensional Data Mining and Visualization I||||
+| Week 14 |5/27 |High-dimensional Data Mining and Visualization II||||
 | Week 15 |6/3 |Map||||
 | Week 16 |6/10 |Course Summary and Presentation|||TBD Final Report Due|
 | Week 17 |(No Class)|||||
