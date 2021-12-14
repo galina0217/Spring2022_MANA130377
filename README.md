@@ -40,13 +40,13 @@ We are in the digital era of exploding amount and complexity of data. This cours
 | Week 03 |3/11 |Data Processing||||
 | Week 04 |3/18 |Data Visualization I||||
 | Week 05 |3/25 |Data Visualization II||||
-| Week 06 |4/1 |Comparing Categories||||
-| Week 07 |4/8 |Relationship||||
-| Week 08 |4/15 |Distribution||||
-| Week 09 |4/22 |Change over time||||
-| Week 10 |4/29 |Part to whole||||
-| Week 11 |5/6 |High-dimensional Data||||
-| Week 12 |5/13 |Geospatial||||
+| Week 06 |4/1 |Chart: Category Comparison||||
+| Week 07 |4/8 |Chart: Relationship||||
+| Week 08 |4/15 |Chart: Distribution||||
+| Week 09 |4/22 |Chart: Change over time||||
+| Week 10 |4/29 |Chart: Part-to-whole||||
+| Week 11 |5/6 |Chart: High-dimensional Data||||
+| Week 12 |5/13 |Chart: Geospatial||||
 | Week 13 |5/20 |Graph||||
 | Week 14 |5/27 |Text||||
 | Week 15 |6/3 |Course Summary and Presentation||||
