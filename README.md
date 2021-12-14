@@ -37,19 +37,19 @@ We are in the digital era of exploding amount and complexity of data. This cours
 | ------- | ------ | ------ | -------- | ------ | ------ | 
 | Week 01 |2/25 |Introduction||||
 | Week 02 |3/4 |Python Programming||||
-| Week 03 |3/11 |Data||||
-| Week 04 |3/18 |Basics of Data Visualization||||
-| Week 05 |3/25 |Statistics & Table||||
-| Week 06 |4/1 |Data Mining I||||
-| Week 07 |4/8 |Data Mining II||||
-| Week 08 |4/15 |Midterm Exam (Case Study)||||
-| Week 09 |4/22 |Graph Mining and Visualization I||||
-| Week 10 |4/29 |Graph Mining and Visualization II||||
-| Week 11 |5/6 |Text Mining and Visualization I||||
-| Week 12 |5/13 |Text Mining and Visualization II||||
-| Week 13 |5/20 |High-dimensional Data Mining and Visualization I||||
-| Week 14 |5/27 |High-dimensional Data Mining and Visualization II||||
-| Week 15 |6/3 |Map||||
+| Week 03 |3/11 |Data Processing||||
+| Week 04 |3/18 |Data Visualization I||||
+| Week 05 |3/25 |Data Visualization II||||
+| Week 06 |4/1 |Comparing Categories||||
+| Week 07 |4/8 |Relationship||||
+| Week 08 |4/15 |Distribution||||
+| Week 09 |4/22 |Change over time||||
+| Week 10 |4/29 |Part to whole||||
+| Week 11 |5/6 |High-dimensional Data||||
+| Week 12 |5/13 |Geospatial||||
+| Week 13 |5/20 |Graph||||
+| Week 14 |5/27 |Text||||
+| Week 15 |6/3 |Course Summary and Presentation||||
 | Week 16 |6/10 |Course Summary and Presentation|||TBD Final Report Due|
 | Week 17 |(No Class)|||||
 | Week 18 |6/24 |Final Exam 08:30-10:30||||
